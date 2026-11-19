@@ -1,0 +1,13 @@
+{
+  "overlap_start": "2026-01-01 00:00:00",
+  "overlap_end": "2026-07-20 00:00:00",
+  "v1_rows": 186251,
+  "start": "2026-01-01 00:00:00",
+  "end": "2026-09-30 23:00:00",
+  "long_rows": 258387,
+  "wide_rows": 65520,
+  "wells": 10,
+  "duplicate_v2_keys": 0,
+  "flagged_rows": 7041,
+  "sql_queries": 10
+}

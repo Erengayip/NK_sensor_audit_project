@@ -1,0 +1,7 @@
+﻿split,method,intervals,missing_hours,precision,recall,median_ms,repeats
+train,Grid (baseline),1227,20291,1.0,1.0,15.941899997415021,7
+train,Pandas diff,1227,20291,1.0,1.0,29.037899992545135,7
+train,SQLite LAG,1227,20291,1.0,1.0,620.1827999902889,7
+test,Grid (baseline),457,3058,1.0,1.0,6.469600004493259,7
+test,Pandas diff,457,3058,1.0,1.0,17.858999999589287,7
+test,SQLite LAG,457,3058,1.0,1.0,177.19509999733418,7

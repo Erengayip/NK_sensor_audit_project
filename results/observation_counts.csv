@@ -1,0 +1,9 @@
+﻿well_type,parameter,min_raw_count,avg_raw_count,max_raw_count,one_raw_count
+fountain,casing_pressure,1,4.837613422359185,10,83
+fountain,line_pressure,1,4.687521993102963,10,182
+fountain,tubing_pressure,1,4.840779343214791,10,90
+sucker_rod_pump,SPM,1,6.614848871085215,19,253
+sucker_rod_pump,dynamometer_area,1,6.3169015816790886,19,351
+sucker_rod_pump,max_rod_weight,1,6.633379460538554,19,222
+sucker_rod_pump,min_rod_weight,1,6.633402146049319,19,222
+sucker_rod_pump,pump_fillage,1,6.316564990652366,19,351

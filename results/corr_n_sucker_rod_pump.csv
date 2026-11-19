@@ -1,0 +1,6 @@
+﻿parameter,SPM,dynamometer_area,max_rod_weight,min_rod_weight,pump_fillage
+SPM,43934,34222,41207,42563,40650
+dynamometer_area,34222,34225,34215,34224,34224
+max_rod_weight,41207,34215,41354,41331,37959
+min_rod_weight,42563,34224,41331,42710,39315
+pump_fillage,40650,34224,37959,39315,40652

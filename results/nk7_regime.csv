@@ -1,0 +1,5 @@
+﻿period,parameter,n,mean_value,zero_pct,negative_pct
+jan_may,SPM,3540,4.166279097109943,10.4237,0.0
+jan_may,dynamometer_area,2858,5250.319992809909,0.07,2.8341
+jun_sep,SPM,2880,1.5590444084946689,5.2431,0.0
+jun_sep,dynamometer_area,2695,-3511.0779679709917,0.0,56.0297
